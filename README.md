@@ -5,7 +5,7 @@ kodumuzda sunumlarımızda bahsettiğimiz yöntemlerini birleştirip büyük bir
 
 
 Zeynep Buse Can - 032290055 <br>
-Yusuf Diler -	032290015
-Mehmet Küşgül	 - 032290075
-Eren Yılmaz	 - 032290114
-Barış Kabacaoğlu - 	032290027
+Yusuf Diler -	032290015 <br>
+Mehmet Küşgül	 - 032290075 <br>
+Eren Yılmaz	 - 032290114 <br>
+Barış Kabacaoğlu - 	032290027 <br>
